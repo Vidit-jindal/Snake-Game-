@@ -34,3 +34,17 @@ To get a local copy up and running follow these simple steps.
 git clone ```url``` . 
 
 ## Usage
+
+You can download the code and after that you can run it for finally playing a old game .
+
+## How to download the code 
+
+click on the code file and copy the code . 
+
+## Contact :email:
+For any query or build issues feel free to reach out the maintainers:<br>
+[Vidit](https://github.com/Vidit-jindal) at viditjindals2000@gmail.com
+ 
+## License
+
+Distributed under the MIT License. 
