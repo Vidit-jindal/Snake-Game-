@@ -10,3 +10,27 @@
 * [Contributing](#contributing-tada)
 * [Contact](#contact-email)
 * [License](#license)
+
+
+## About The Project :heart:
+
+
+### Tech Stack :star:
+
+* Javascript
+* Data Structures 
+
+## Project Structure :blue_book:
+
+## Src Structure
+
+## Getting Started :zap:
+
+To get a local copy up and running follow these simple steps.
+
+
+### Download
+
+git clone ```url``` . 
+
+## Usage
